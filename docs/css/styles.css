@@ -26,17 +26,28 @@ a {
   text-align: center;
   letter-spacing: 5px;
 }
+p {
+  font-size: 1.4em;
+  margin: 2em;
+  letter-spacing: 5px;
+}
 .white {
-  /* margin: 1em; */
   background-color: black;
   color: white;
   font-size: 5em;
 
 }
-.white h2 {
+h1  {
   margin: 1em;
 }
-
+.font {
+  font-size: 5em;
+  color: white;
+}
+.lightgreen {
+  background-color: lightgreen;
+  color: black;
+}
 .yellow {
   background-color: goldenrod;
 }
@@ -47,6 +58,9 @@ a {
 
 .lightblue {
   background-color: lightblue;
+}
+.lightblue a {
+  color: black;
 }
 
 .green {
