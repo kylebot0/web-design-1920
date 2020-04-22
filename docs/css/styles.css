@@ -58,6 +58,7 @@ h1  {
 
 .lightblue {
   background-color: lightblue;
+  color: black;
 }
 .lightblue a {
   color: black;
@@ -69,10 +70,6 @@ h1  {
 
 .red {
   background-color: red;
-}
-
-.gold {
-  background-color: green;
 }
 
 .lightpurple {
