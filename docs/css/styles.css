@@ -40,6 +40,9 @@ p {
 h1  {
   margin: 1em;
 }
+.small {
+  font-size: 1em;
+}
 .font {
   font-size: 5em;
   color: white;
