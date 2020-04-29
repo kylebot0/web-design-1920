@@ -5,10 +5,10 @@
 
 Als opdracht heb ik gekregen om voor Larissa iets te ontwerpen. Maar het bijzondere aan deze opdracht is dat het alleen gemaakt moet worden specifiek voor Larissa. Hierbij kunnen we dus de design principles negeren. De normale conventies die wij gebruiken om te ontwerpen, kunnen wij eigenlijk vergeten bij deze opdracht.
 
-### Wie is Larissa?
+#### Wie is Larissa?
 Larissa is een bijzonder vrolijk iemand, die toevallig (volgens Larissa zelf) heel goed is in baanwielrennen. Larissa is daarbij gedeeltelijk blind en het is haar zelfs gelukt om wereldkampioen op de paralympische spelen te worden. Larissa haar hobby is vooral paardrijden en gek genoeg heeft ze een hekel aan baanwielrennen.
 
-### Wat wilt Larissa?
+#### Wat wilt Larissa?
 Larissa heeft een druk schema als wereldkampioen baanwielrenster, alleen kan ze dat schema niet lezen. Daarnaast is het schema dat gemaakt is voor haar erg onduidelijk en kan iemand die het zelfs kan zien nagenoeg niet begrijpen (ik spreek uit ervaring). Nou is de opracht voor ons het schema van Larissa in een website te maken, dat voor haar makkelijk te begrijpen is en waardoor zij sneller kan navigeren naar wat zij wilt weten wat er op die dag op het schema staat.
 ![]()
 
@@ -18,15 +18,15 @@ Mijn concept is gebaseerd op de kleuren die oorspronkelijk al in haar schema bes
 ## Testen
 Het testen van de applicaties is gedaan in 3 sessies, die allemaal staan beschreven in mijn wiki.
 
-### Test 1
+#### Test 1
 Dit was vooral een kennismaking ronde met Larissa, wij wisten nog niet echt wat zij van ons verwachtte. Dus wij hadden als team een aantal vragen opgesteld die ons meer duidelijk gaven over wat Larissa nou leuk vond, wat voor persoon zij is en wat zij nou wilt zien in een jaarschema.
 - [Test 1](https://github.com/kylebot0/web-design-1920/wiki/Test-1)
 
-### Test 2
+#### Test 2
 Hierbij heb ik mijn eerste ontwerp getest met Larissa, hier heb ik aardig wat feedback van gekregen en kon ik op door itereren. Ik was hierbij de enige die met kleur ging werken en het werkte eigenlijk best goed. Een uitgebreide beschrijving staat in mijn wiki.
 - [Test 2](https://github.com/kylebot0/web-design-1920/wiki/Test-2)
 
-### Test 3
+#### Test 3
 Dit was de laatste test die wij met Larissa konden houden. Ik heb hierbij de laatste grote iteraties op gelegd en het was redelijk positief. 
 - [Test 3](https://github.com/kylebot0/web-design-1920/wiki/Test-3)
 
@@ -34,7 +34,6 @@ Dit was de laatste test die wij met Larissa konden houden. Ik heb hierbij de laa
 Uit de test zijn bepaalde fouten in het ontwerp gebleken. Dit heb ik opgelost door bepaalde iteraties toe te passen. Wat voor iteraties dat zijn, staat in mijn wiki.
 - [Iteraties](https://github.com/kylebot0/web-design-1920/wiki/Test-1)
 
-## Product
 
 ## Bronnen
 - *
