@@ -37,7 +37,7 @@ Uit de test zijn bepaalde fouten in het ontwerp gebleken. Dit heb ik opgelost do
 
 
 ## Bronnen
-- *
+- https://github.com/kylebot0/web-design-1920/wiki/Research
 
 ## Credits
 - Larissa voor het testen en de feedback die zij heeft gegeven.
