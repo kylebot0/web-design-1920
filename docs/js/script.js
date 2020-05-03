@@ -7,6 +7,9 @@ let elems = [
     ...document.querySelectorAll('p'),
     ...document.querySelectorAll('a'),
 ];
+window.onload=function(){
+    document.getElementById("my_audio").play();
+}
 console.log(elems)
 let item = 0
 document.addEventListener('keydown', function(e) {

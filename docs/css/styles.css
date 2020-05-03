@@ -9,7 +9,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 a:focus {
-  border: 10px solid white;
+  border: 15px solid white;
 }
 div {
   display: flex;
