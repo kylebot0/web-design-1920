@@ -35,6 +35,10 @@ Dit was de laatste test die wij met Larissa konden houden. Ik heb hierbij de laa
 Uit de test zijn bepaalde fouten in het ontwerp gebleken. Dit heb ik opgelost door bepaalde iteraties toe te passen. Wat voor iteraties dat zijn, staat in mijn wiki.
 - [Iteraties](https://github.com/kylebot0/web-design-1920/wiki/Test-1)
 
+## Conclusie 
+Hoewel dit ontwerp niet het beste en het mooiste is, is het wel exlusief gemaakt voor Larissa. Zij heeft zelf aangegeven wat zij fijn vindt om te gebruiken, of om te zien. Daarnaast heb ik haar persoonlijkheid in het ontwerp verwerkt. Ik vind Larissa namelijk een fantastisch en vrolijk persoon. En dat associeer ik zelf met kleurrijk. Ze heeft ook aangegeven dat ze het fijn vindt om met tab te werken, hoewel ze bij de andere studenten vaak in eerste instantie met pijltjestoetsen ging werken. Dit heb ik verbeterd door de pijltjestoetsen en tab te combineren. Daarnaast heb ik alle principles uitgewerkt in het ontwerp, maar dit staat uitgebreid beschreven in mijn wiki. 
+
+
 
 ## Bronnen
 - https://github.com/kylebot0/web-design-1920/wiki/Research
