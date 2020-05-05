@@ -18,7 +18,7 @@ Mijn concept is gebaseerd op de kleuren die oorspronkelijk al in haar schema bes
 ![](https://github.com/kylebot0/web-design-1920/blob/master/docs/img/tokyo.png)
 ## Demo
 `https://www.youtube.com/watch?v=YE_1kNqYkno`
-[![Demo](https://gyazo.com/edb8cc3198ec5d9e8003ffea05398c38)](https://www.youtube.com/watch?v=YE_1kNqYkno)
+[![Demo](https://github.com/kylebot0/web-design-1920/blob/master/docs/img/anim.gif)](https://www.youtube.com/watch?v=YE_1kNqYkno)
 ## Testen
 Het testen van de applicaties is gedaan in 3 sessies, die allemaal staan beschreven in mijn wiki.
 
