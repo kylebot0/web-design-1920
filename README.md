@@ -16,6 +16,9 @@ Larissa heeft een druk schema als wereldkampioen baanwielrenster, alleen kan ze 
 ## Concept
 Mijn concept is gebaseerd op de kleuren die oorspronkelijk al in haar schema bestaan. De kleuren geven namelijk bepaalde onderwerpen aan. Toen we de eerste keer gingen testen met Larissa bleek al snel dat ze wel wist wat de kleuren betekenen. Ik had hierbij het idee om dus haar jaarschema hierop in te delen. Op de homepagina staan alle onderwerpen die belangrijk zijn voor haar. Larissa weet vaak al wanneer iets is, als je aan haar vraagt wat ze op een bepaalde datum gaat doen, dan weet zij bijvoorbeeld dat ze in portugal zit. Ik wilde het haar gemakkelijk maken door dit in onderwerpen op te delen, zodat ze altijd kan checken wat er precies gebeurd op die dag. Daarbij kan ze ook gemakkelijk haar eerstvolgende gebeurtenis opzoeken, omdat dat ook een onderwerp is.
 ![](https://github.com/kylebot0/web-design-1920/blob/master/docs/img/tokyo.png)
+## Demo
+`https://www.youtube.com/watch?v=YE_1kNqYkno`
+[![Demo](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=YE_1kNqYkno)
 ## Testen
 Het testen van de applicaties is gedaan in 3 sessies, die allemaal staan beschreven in mijn wiki.
 
